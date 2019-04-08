@@ -1,0 +1,17 @@
+{
+    "name": "beyonddigitalit/envalert",
+    "description": "This package will alert the user by putting a bar on top to show which env you're in",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Bharatwaj Sriram",
+            "email": "bharath.lakers@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Beyonddigitalit\\Envalert\\": "src/"
+        }
+    },
+}
